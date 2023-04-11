@@ -3,7 +3,6 @@
 2: copiar los archivos .php dentro de su carpeta de los sistemas web de php. 
 
 por ejemplo:
-
 C:\xampp-56\htdocs\test
 
 
