@@ -7,3 +7,8 @@ C:\xampp-56\htdocs\test
 
 
  3: acceda al sistema php, por ejemplo: http://localhost/test/
+
+
+Sistema desarrollado en:
+PHP 5.6.40
+MariaDB 10.1.38
